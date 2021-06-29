@@ -1,7 +1,5 @@
 /* 
-" हर-हर महादेव "
 Author: Chandan Sharma(itsmorris_worm), India
-commit: 8/05/2021
 */
 #include<bits/stdc++.h>
 using namespace std;
